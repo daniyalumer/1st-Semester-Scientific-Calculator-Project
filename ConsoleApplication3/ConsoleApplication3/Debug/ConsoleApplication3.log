@@ -1,0 +1,6 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\DELL\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(78,20): warning C4244: 'initializing': conversion from 'long' to 'char', possible loss of data
+C:\Users\DELL\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(484,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(991,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\DELL\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(1061,21): warning C4129: ' ': unrecognized character escape sequence
+  ConsoleApplication3.vcxproj -> C:\Users\DELL\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
